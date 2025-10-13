@@ -1,13 +1,25 @@
 <img width="2567" height="855" alt="8992727470__Active-Campaign-Header-2567x855" src="https://github.com/user-attachments/assets/a8c221aa-0329-483d-96d3-e0a8febefc30" />
 
-
 The St. Jude Children's Research Hospital KIDS (Knowledge in Data Science) BioHackathon is an annual event where diverse, multidisciplinary participants gather, collaborate, and build software-based solutions that address real-world needs during a fast-paced 3 day coding marathon. 
 Hackathons foster new collaborations among community researchers, encourage the sharing of knowledge and ideas, and provide the ideal environment for learning new skills and testing risky ideas.
 Plus they're fun!
 
 See [the website for additional information](https://www.stjude.org/research/why-st-jude/biohackathon.html), to view past projects/challenges, and to keep an eye out for next year's sign-ups!
 
-### Past Events
+
+
+## Highlights
+
+## Present
+
+In 2025, we are hosting the third BioHackathon at St. Jude. Originally launched as a volunteer-driven initiative by event chairs **Drs. Jared Andrews and Susanna M. Downing**, with support from Associate Member **Dr. Gang Wu**, the event has now become fully institutionally supported. While the BioHackathon was initially funded by Faculty Affairs, beginning this year it received administrative support from the newly established Office of Data Science, which will also provide strategic oversight in the coming years.
+
+This year’s BioHackathon brought together 160 participants from various departments at St. Jude and over 50 external institutions (detailed statistics to be updated). Participants collaborated on 22 projects, ranging from bioinformatics pipeline development and imaging optimization to the application of AI/LLMs for clinical and administrative data. As in previous years, teams competed for the coveted **Golden Floppy Cubes** and the **Golden Floppy Disk awards**.
+  - Most Technically Impressive - Molsnap: Image-to-SMILES conversion tool, led by Vyoma Sheth
+  - Most Innovative - LabAssist: chatbot trained on lab specific SOPs to assist lab personal with quickly referencing lab procedures, led by Pete Hall
+  - Best Overall - Genesis: Multi-Modal Agentic AI for Cancer Variant Effect Prioritization, led by Ninad Oak
+
+## Past Events
 
 - The first St. Jude BioHackathon was held internally in 2022, with 42 participants across 9 teams competed for the coveted **Golden Floppy Disk**. Our winning team led by Austin Faught and Jared Becksfort was composed of members from the Department of Radiation Oncology and Information Services with their project to model St. Jude's cutting edge proton beam and help calculate valid treatment trajectories.
 - In 2023, the St. Jude BioHackathon was held in association with the KIDS23 (Knowledge in Data Science) symposium and dramatically expanded. 82 participants from 20 institutions, 5 companies, and every continent across 15 teams built projects spanning image analysis, multiomics integration, LLMs, and more, all competing for the new-found **Golden Floppy Cubes** in addition to the highly touted **Golden Floppy Disk**.
