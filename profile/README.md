@@ -1,6 +1,6 @@
-<img width="2567" height="855" alt="8992727470__Active-Campaign-Header-2567x855" src="https://github.com/user-attachments/assets/a8c221aa-0329-483d-96d3-e0a8febefc30" />
+![biohackathon-2026-banner](./asset/Biohackathon_CVENT_Header.jpg)
 
-The St. Jude Children's Research Hospital KIDS (Knowledge in Data Science) BioHackathon is an annual event where diverse, multidisciplinary participants gather, collaborate, and build software-based solutions that address real-world needs during a fast-paced 3 day coding marathon. 
+The St. Jude BioHackathon is an annual event where diverse, multidisciplinary participants gather, collaborate, and build data science and AI solutions that address real-world needs during a fast-paced 3 day coding marathon. 
 Hackathons foster new collaborations among community researchers, encourage the sharing of knowledge and ideas, and provide the ideal environment for learning new skills and testing risky ideas.
 Plus they're fun!
 
