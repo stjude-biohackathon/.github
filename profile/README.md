@@ -2,15 +2,20 @@
 
 The St. Jude BioHackathon is an annual event where diverse, multidisciplinary participants gather, collaborate, and build data science and AI solutions that address real-world needs during a fast-paced 3 day coding marathon. 
 Hackathons foster new collaborations among community researchers, encourage the sharing of knowledge and ideas, and provide the ideal environment for learning new skills and testing risky ideas.
-Plus they're fun!
-
-See [the website for additional information](https://www.stjude.org/research/why-st-jude/biohackathon.html), to view past projects/challenges, and to keep an eye out for next year's sign-ups!
 
 
+This year's Biohackathon event will be held from September 16-18 at St. Jude Children's Research Hopsital. 
+See [the website for additional information](https://www.stjude.org/research/why-st-jude/biohackathon.html), for additional information, past projects and challenges, and this year's featured projects.
 
-## Highlights
+## 2026 Organizing Committees
+This year's Biohackathon is made possible through the efforts of volunteers across several committees:
+*Event Operations Subcommittee
+*Participant Onboarding Subcommittee
+*Projects Review and Team Assignment Subcommittee
+*Project Judging Subcommittee
+*Technical Support Subcommittee
 
-## Present
+## 2025 Highlights
 
 In 2025, we hosted the fourth BioHackathon at St. Jude. Originally launched as a volunteer-driven initiative by event chairs **Drs. Jared Andrews and Susanna M. Downing**, with support from Associate Member **Dr. Gang Wu**, the event has now become fully institutionally supported. While the BioHackathon was initially funded by Faculty Affairs, beginning this year it received administrative support from the newly established Office of Data Science, which will also provide strategic oversight in the coming years.
 
