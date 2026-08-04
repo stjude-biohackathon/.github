@@ -10,7 +10,7 @@ Visit [the official webpage](https://www.stjude.org/research/why-st-jude/biohack
 
 ## 2026 Organizing Committees
 
-This year's BioHackathon is made possible through the efforts of 30+ volunteers across several committees - read more about them [here](./bh2026-committee.ms):
+This year's BioHackathon is made possible through the efforts of 30+ volunteers across several committees - read more about them [here](./bh2026-committee.md):
 
 * Event Operations Subcommittee
 * Participant Onboarding Subcommittee
